@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"		"Articus"
+	"version"	"1.5"
+	"up_date"	"Today"
+	"author_name"	"Articus"
+	"author_email"	"n/a"
+	"info"		"War Melons"
+}

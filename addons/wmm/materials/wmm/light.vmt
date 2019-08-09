@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "wmm/light"
+	"$selfillum" 1
+	"$model" 1
+}

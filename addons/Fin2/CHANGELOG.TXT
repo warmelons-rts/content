@@ -1,0 +1,7 @@
+version 2.3
+
+[added] duplication support
+[added] clean up
+[added] MP limit
+[added] right click copy fin settings
+

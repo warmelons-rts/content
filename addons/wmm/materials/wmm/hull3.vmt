@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "wmm/hull3"
+	"$bumpmap" "wmm/hull3_bump"
+	"$surfaceprop" "metal"
+	"$model"     1
+}
